@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/explosion/prodigy-lunr/commit/d5bcb91d5bf0b4de5e381d64782b45e9aaff965b",
       "git:hexsha": "d5bcb91d5bf0b4de5e381d64782b45e9aaff965b",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.2.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.2.1",
+      "repolex:parsedAt": "2026-10-28T12:02:39.054057+00:00"
     },
     {
       "@id": "https://repolex.ai/r/explosion/prodigy-lunr/commit/5a2174f70aff816f083de443145a4c9f49a170b6",
