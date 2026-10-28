@@ -1,0 +1,35 @@
+{
+  "manifest_version": "1.0",
+  "org": "explosion",
+  "repo": "prodigy-lunr",
+  "versions": [
+    {
+      "commit": "d5bcb91d5bf0b4de5e381d64782b45e9aaff965b",
+      "parsed_at": "2026-10-28T12:00:40.205741+00:00",
+      "tag": "v0.2.1",
+      "filetree": "filetree/d5bcb91d5bf0b4de5e381d64782b45e9aaff965b.nq.gz",
+      "blobs": [
+        "blob/6589b30b436ad4a79f275f44864a7b23be4fcb88.nq.gz",
+        "blob/f98a3831327e9986d0ad8099152d7b7c5d454f74.nq.gz",
+        "blob/9c2926ee0a1f5ce0b1d521a9cfe2e53e885833f1.nq.gz",
+        "blob/91167cd9cc235e2625eb55c89408a1568324c4ed.nq.gz",
+        "blob/992361b341ded499e60b9e07beebf864bc7c1a84.nq.gz",
+        "blob/9fdec95f74f17f641d77fbb88dd55eea3a387ed4.nq.gz",
+        "blob/6dbd43fbd7f530f3f0c554c63605be7e3d220485.nq.gz",
+        "blob/5ed8c6f4568a1f94f496142140870a219dfe73c2.nq.gz",
+        "blob/a6d5e3f118d970d21287fef6dd327c8c50b787b8.nq.gz",
+        "blob/aefb2e0a1d7d9c6e87c6b8517c46cabce5e01daf.nq.gz",
+        "blob/6b117db5b442e2f0acbdca62f2ab47d7dcc69a0b.nq.gz",
+        "blob/03ec3c1e3770ea0de1cd44f547f6bef5e761b120.nq.gz",
+        "blob/8902e65b1416db7bcc43a9a6ea656998d0b368c5.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/2f141c115ddc6ac05b35e183d45ba5039d3d283f.nq.gz",
+        "blob/62e3ec1c11fe9386591b5a45847b78b41a3612a6.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
