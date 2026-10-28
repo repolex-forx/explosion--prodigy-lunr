@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "prodigy-lunr",
+  "versions": [
+    {
+      "commit": "d5bcb91d5bf0b4de5e381d64782b45e9aaff965b",
+      "tag": "v0.2.1",
+      "parsed_at": "2026-10-28T12:02:39.054538+00:00"
+    }
+  ]
+}
